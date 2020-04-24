@@ -1,0 +1,28 @@
+body {
+	background-color: #56c2f5;
+	font-family: Lacquer;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	color: ;
+}
+
+#mnavbar .nav-link {
+	color: #56c2f5;
+}
+
+#mnavbar .nav-link:hover {
+	color: white;
+}
+
+h1 {
+	color: #56c2f5;
+}
+
+#header p {
+	font-family: Inconsolata;
+	color: white;
+	font-weight: bold;
+}
+
